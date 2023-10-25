@@ -11,3 +11,12 @@ Node JS
 MongoDB
 Mongoose
 Mongosh
+
+
+# mongodb local setup on mac
+
+https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
+
+# mongodb syntax
+db name : form
+collection name: local
